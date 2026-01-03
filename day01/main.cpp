@@ -1,7 +1,7 @@
 #include <iostream>
 
 
- void Log(const char* massege); //6. опеределим функцию, чтобы компилятор знал, что она есть у нас.
+ void Log(const char* massege);
 
 int main( ) {
 
@@ -13,6 +13,3 @@ int main( ) {
     Log("Hello World!!!"); //4.теперь мы вместо cout вызываем Log и передаем ей "Hello World!!!" как параметр
     std::cin.get();
 }
-
-
-//5. после чего я разделю функции и Log перемещу в другой файл 
