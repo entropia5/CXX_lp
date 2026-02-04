@@ -1,5 +1,9 @@
-#include <iostream>
+/*
+
+ #include <iostream>
 #include "log.h"
+
+
 
 
 int main () 
@@ -9,3 +13,5 @@ int main ()
     std::cin.get();
 
 }
+
+*/
