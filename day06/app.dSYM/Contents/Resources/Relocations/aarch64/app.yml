@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/igoryakobchuk/projects/hello_cpp_learn/TheCherno/day06/app'
-relocations:     []
-...
