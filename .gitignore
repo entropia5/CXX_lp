@@ -2,3 +2,4 @@ hello
 *.o
 .DS_Store
 app
+.vscode
