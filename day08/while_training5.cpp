@@ -1,3 +1,5 @@
+//while 
+
 #include <iostream>
 
 int main()
